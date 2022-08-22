@@ -2,3 +2,7 @@ h1 {
   color: yellow;
   font-weight: bold;
 }
+h2 {
+  color: greenyellow;
+  font-style: italic;
+}
