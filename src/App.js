@@ -19,6 +19,7 @@ function App() {
         </a>
         <p>branch 1</p>
         <h1>branch 1</h1>
+        <h2>branch 1</h2>
       </header>
     </div>
   );
