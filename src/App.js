@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import './main.css';
+import showName from './name';
 
 function App() {
   return (
@@ -20,7 +22,9 @@ function App() {
         <p>branch 1</p>
         <h1>branch 1</h1>
         <h2>branch 1</h2>
+        <h3>{showName('bxranch 3')}</h3>
       </header>
+      SƯ
     </div>
   );
 }
