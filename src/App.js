@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import './branch7.css';
 
 function App() {
   return (
@@ -20,6 +21,8 @@ function App() {
         <p>branch 1</p>
         <h1>branch 1</h1>
         <h2>branch 1</h2>
+        <h2 class="head">branch 7</h2>
+        <h2 class="head1">branch 7</h2>
       </header>
     </div>
   );
